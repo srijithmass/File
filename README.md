@@ -77,6 +77,6 @@ public class program
 }
 ```
 ## Output:
-![](ss1 (1).png)
+![](ss1.png)
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
